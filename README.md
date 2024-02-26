@@ -5,6 +5,9 @@
 아래 내용을 참고하시어 과제를 작성하신 후 tech@switchwon.com 으로 회신 부탁 드립니다.
 
 
+권장 개발환경 (필수아님)
+● java17, springboot, jpa
+
 
 평가 기준
 
